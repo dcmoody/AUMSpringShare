@@ -1,0 +1,172 @@
+
+.s-la-faq-views.col-md-4 {
+display: none;
+}
+
+.s-la-faq-actions.row {
+display: none;
+}
+
+#s-la-box-32371-container {
+display: none;
+}
+
+#s-la-browse-groups {
+
+display: none;
+}
+
+.s-la-faq-topics {
+display: none;
+}
+
+.s-la-faq-answer.clearfix {
+    border: solid black 2px;
+    padding: 15px;
+    box-shadow: 0px 0px 27px 8px rgba(211, 70, 30, 0.75);
+    -moz-box-shadow: 0px 0px 27px 8px rgba(211, 70, 30, 0.75);
+    -webkit-box-shadow: 0px 0px 27px 8px rgba(211, 70, 30, 0.75);
+background-color: white;
+}
+
+#s-la-header-public .s-la-public-header-1 {
+    padding: 8px 34px 20px 23px !important;}
+
+.s-la-faq-listing-views {
+    display: none;
+}
+
+.s-la-faq-listing-topics {
+    display: none;
+}
+#s-la-headerlinks {
+    background-color: black;
+    color: white !important;
+}
+.list-inline a {
+    color: white;
+}
+
+.s-la-public-header-content.s-la-public-header-1 {
+    color: white;
+    background-color: black;
+}
+
+.col-md-12.text-center {
+    background-color: black;
+}
+
+.btn.btn-primary {
+    background-color: #d3461e;
+    border-color: #d3461e;
+}
+
+.list-inline a:focus{background-color:#d3461e}
+.list-inline a:hover{background-color:#d3461e}
+.s-srch-result-subj {
+    display: none;
+}
+s-la-box-title.s-la-box-title-simple.s-la-box-border-simple {
+    display: none;
+}
+
+#s-la-askform-32368 {
+    margin-top: 25px;
+}
+
+#s-la-box-32368-container {
+    display: none;
+}
+
+#s-la-page-13181 {
+    background: white url(http://aumnicat.aum.edu/sites/all/themes/sardinia/images/3_slashes_PMS172.png);
+        background-repeat: repeat;
+    background-repeat: no-repeat;
+}
+#s-la-box-32367-container {
+    background-color: white;
+    border: solid black 2px;
+margin-top: 22%;
+}
+
+#s-la-askform-32368 {
+    background-color: white;
+    border: solid black 2px;
+    margin: 8px;
+    padding: 15px;
+}
+
+#s-srch-results-0 {
+    border: solid black 2px;
+background-color: white;
+}
+
+#s-la-page-13182 {
+    background: white url(http://aumnicat.aum.edu/sites/all/themes/sardinia/images/3_slashes_PMS172.png);
+    background-repeat: no-repeat;
+}
+
+.s-srch-facet{background-color:white;
+border:black solid 2px;}
+
+#s-srch-facet-0-topics {
+    margin-top: 28%;
+}
+
+.s-la-box-title.s-la-box-title-simple.s-la-box-border-simple {
+
+    background-color: white;}
+
+#footer{
+margin: auto;
+padding-top:1%;
+padding-left:1%;
+background: #4c4c4c; /* Old browsers */
+ background: -moz-linear-gradient(top, #4c4c4c 0%, #595959 7%, #666666 17%, #474747 30%, #2c2c2c 50%, #111111 60%, #2b2b2b 76%, #1c1c1c 91%, #131313 100%);  /* FF3.6-15 */
+ background: -webkit-linear-gradient(top, #4c4c4c 0%,#595959 7%,#666666 17%,#474747 30%,#2c2c2c 50%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);  /* Chrome10-25,Safari5.1-6 */
+ background: linear-gradient(to bottom, #4c4c4c 0%,#595959 7%,#666666 17%,#474747 30%,#2c2c2c 50%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313',GradientType=0 ); /* IE6-9 */ 
+color:white;
+}
+
+#sociallinks{
+ -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+fill: #bbb;}
+
+.toplinks A {
+    text-decoration: underline;
+    color: white;
+}
+#s-lib-footer-login-link{
+display: none !important;}
+
+#s-la-public-footer{display:none}
+
+#s-la-headerlinks{
+display:flex}
+#s-la-headerlinks .col-sm-6{width:100%}
+.container{width:80%;
+margin: 0 auto;}
+.s-la-breadcrumbs{width:26%;
+float:left;}
+.s-la-navbar{width:30%;
+float:left;}
+#s-la-header-public{width:44%;
+float:left;}
+#s-la-headerlinks {
+    /*display: table; */
+    width: 100%;
+}
+#s-la-headerlinks .col-sm-6{display:table-row;}
+#s-la-header-public .s-la-content-search{min-width:100%;}
+
+.container > .row {
+
+    background-color: black;
+
+}
+
+
+
+

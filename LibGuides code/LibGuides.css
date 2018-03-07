@@ -1,0 +1,76 @@
+#s-lg-guide-main{
+box-shadow: 0 12px 48px 9px #dedede;
+    -moz-box-shadow: 0 12px 48px 9px #dedede;
+    -webkit-box-shadow: 0 12px 48px 9px #dedede;
+    margin-bottom: 33px;
+margin-top:33px;}
+#s-lg-guide-tabs {
+    background-color: black;
+    padding-bottom: 1%;
+}
+
+.s-lib-box-content.s-lib-floating-box-content {
+    padding-top: 1%;
+}
+.row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+#s-lg-guide-name{
+    margin-left: 1%;
+}
+
+#s-lg-guide-search-box{
+display:none;}
+.s-lib-box-title {
+    color: white !important;
+}
+#nav nav-tabs split-button-nav span{
+color: white;
+}
+#nav nav-tabs split-button-nav li a {
+     background-color: black !important;}
+
+#s-lg-tabs-container .nav-tabs > .active > a{
+     background-color: #d3461e !important;}
+
+#s-lg-tabs-container .nav-tabs > li > a{
+      background-color:black !important;}
+#s-lg-tabs-container .nav-tabs > li > a:hover{
+      background-color:#d3461e !important;}
+#s-lg-guide-tabs li span{color:
+white;}
+#s-lg-guide-description {
+    margin-left: 15px;
+}
+
+#footer{
+width: 62%;
+margin: auto;
+padding-top:1%;
+padding-left:1%;
+background: #4c4c4c; /* Old browsers */
+background: -moz-linear-gradient(top, #4c4c4c 0%, #595959 7%, #666666 17%, #474747 30%, #2c2c2c 50%, #111111 60%, #2b2b2b 76%, #1c1c1c 91%, #131313 100%);  /* FF3.6-15 */
+ background: -webkit-linear-gradient(top, #4c4c4c 0%,#595959 7%,#666666 17%,#474747 30%,#2c2c2c 50%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);  /* Chrome10-25,Safari5.1-6 */
+ background: linear-gradient(to bottom, #4c4c4c 0%,#595959 7%,#666666 17%,#474747 30%,#2c2c2c 50%,#111111 60%,#2b2b2b 76%,#1c1c1c 91%,#131313 100%);  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313',GradientType=0 ); /* IE6-9 */ 
+color:white;
+}
+
+#sociallinks{
+ -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+fill: #bbb;}
+
+.toplinks A {
+    text-decoration: underline;
+    color: white;
+}
+#s-lib-footer-login-link{
+display: none !important;}
+
+#s-lg-guide-tabs {
+    padding-top: 0.5%;
+}
+
